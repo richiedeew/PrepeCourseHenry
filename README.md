@@ -1,2 +1,1 @@
-# PrepeCourseHenry
-Este es un repositorio de prueba actividad 2
+este es mi primer repositorio clonado desde githuba mi pc
